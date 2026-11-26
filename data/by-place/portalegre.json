@@ -543,7 +543,7 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-26T02:34Z",
+  "read_at": "2026-11-26T11:22Z",
   "by": "place.portalegre@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
@@ -551,75 +551,119 @@
    "url": "https://radioportalegre.pt/ps-e-psd-disputam-autoria-dos-investimentos-previstos-para-o-distrito-de-portalegre/",
    "source": "Rádio Portalegre",
    "date": "2026-11-25",
-   "read_at": "2026-11-26T02:32:21Z",
+   "read_at": "2026-11-26T11:15:32Z",
    "names_place": true
   },
   "items": [
    {
-    "title": "Patinar, dar uma volta ou voar? No Elvas Cidade Natal, os mais novos escolhem p…",
-    "url": "https://canalalentejo.sapo.pt/patinar-dar-uma-volta-ou-voar-no-elvas-cidade-natal-os-mais-novos-escolhem-p/",
-    "published": "2026-11-25T21:00Z",
-    "source": "Canal Alentejo",
-    "source_site": "https://canalalentejo.sapo.pt/",
-    "feed": "https://canalalentejo.sapo.pt/feed/",
-    "read_at": "2026-11-26T02:32:13Z",
+    "title": "Mulheres Socialistas promovem sessão sobre menopausa em Marvão",
+    "url": "https://radioportalegre.pt/mulheres-socialistas-promovem-sessao-sobre-menopausa-em-marvao/",
+    "published": "2026-11-26T10:52Z",
+    "source": "Rádio Portalegre",
+    "source_site": "https://radioportalegre.pt/",
+    "feed": "https://radioportalegre.pt/feed/",
+    "read_at": "2026-11-26T11:15:32Z",
     "mentions_place": false,
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    },
    {
-    "title": "Portugal apresentou, na COP31, medidas e soluções nacionais responder aos desaf…",
-    "url": "https://canalalentejo.sapo.pt/portugal-apresentou-na-cop31-medidas-e-solucoes-nacionais-responder-aos-desaf/",
-    "published": "2026-11-25T20:30Z",
-    "source": "Canal Alentejo",
-    "source_site": "https://canalalentejo.sapo.pt/",
-    "feed": "https://canalalentejo.sapo.pt/feed/",
-    "read_at": "2026-11-26T02:32:13Z",
+    "title": "Alter do Chão e Marvão entre os municípios portugueses que pagam mais depressa",
+    "url": "https://radioportalegre.pt/alter-do-chao-e-marvao-entre-os-municipios-portugueses-que-pagam-mais-depressa/",
+    "published": "2026-11-26T10:51Z",
+    "source": "Rádio Portalegre",
+    "source_site": "https://radioportalegre.pt/",
+    "feed": "https://radioportalegre.pt/feed/",
+    "read_at": "2026-11-26T11:15:32Z",
     "mentions_place": false,
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    },
    {
-    "title": "VILA VIÇOSA ǀ COMEMORAÇÕES DO 1º DEZEMBRO\n Comemorações da Restauração da Indep…",
-    "url": "https://canalalentejo.sapo.pt/vila-vicosa-%c7%80-comemoracoes-do-1o-dezembro-comemoracoes-da-restauracao-da-indep-2/",
-    "published": "2026-11-25T20:30Z",
+    "title": "Rede BIN@ reforça cooperação internacional em Ribeirão Preto",
+    "url": "https://canalalentejo.sapo.pt/rede-bin-reforca-cooperacao-internacional-em-ribeirao-preto/",
+    "published": "2026-11-26T10:48Z",
     "source": "Canal Alentejo",
     "source_site": "https://canalalentejo.sapo.pt/",
     "feed": "https://canalalentejo.sapo.pt/feed/",
-    "read_at": "2026-11-26T02:32:13Z",
+    "read_at": "2026-11-26T11:15:23Z",
     "mentions_place": false,
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    },
    {
-    "title": "Com chocolate ou sem chocolate? \n\nQual o seu preferido? \n\nEstas e outras delíci…",
-    "url": "https://canalalentejo.sapo.pt/com-chocolate-ou-sem-chocolate-qual-o-seu-preferido-estas-e-outras-delici/",
-    "published": "2026-11-25T19:36Z",
-    "source": "Canal Alentejo",
-    "source_site": "https://canalalentejo.sapo.pt/",
-    "feed": "https://canalalentejo.sapo.pt/feed/",
-    "read_at": "2026-11-26T02:32:13Z",
+    "title": "CIMAA reúne saúde, justiça e setor social para reforçar respostas na saúde mental",
+    "url": "https://radioportalegre.pt/cimaa-reune-saude-justica-e-setor-social-para-reforcar-respostas-na-saude-mental/",
+    "published": "2026-11-26T10:42Z",
+    "source": "Rádio Portalegre",
+    "source_site": "https://radioportalegre.pt/",
+    "feed": "https://radioportalegre.pt/feed/",
+    "read_at": "2026-11-26T11:15:32Z",
     "mentions_place": false,
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    },
    {
-    "title": "Presidente Clarisse Campos foi convidada no Palácio de Belém\n\nO Presidente da R…",
-    "url": "https://canalalentejo.sapo.pt/presidente-clarisse-campos-foi-convidada-no-palacio-de-belemo-presidente-da-r/",
-    "published": "2026-11-25T19:30Z",
-    "source": "Canal Alentejo",
-    "source_site": "https://canalalentejo.sapo.pt/",
-    "feed": "https://canalalentejo.sapo.pt/feed/",
-    "read_at": "2026-11-26T02:32:13Z",
+    "title": "Nisa veste-se de Natal até janeiro",
+    "url": "https://radioportalegre.pt/nisa-veste-se-de-natal-ate-janeiro/",
+    "published": "2026-11-26T10:09Z",
+    "source": "Rádio Portalegre",
+    "source_site": "https://radioportalegre.pt/",
+    "feed": "https://radioportalegre.pt/feed/",
+    "read_at": "2026-11-26T11:15:32Z",
     "mentions_place": false,
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    },
    {
-    "title": "Hoje assinala-se o Dia Internacional para a Eliminação da Violência contra as M…",
-    "url": "https://canalalentejo.sapo.pt/hoje-assinala-se-o-dia-internacional-para-a-eliminacao-da-violencia-contra-as-m/",
-    "published": "2026-11-25T19:30Z",
+    "title": "Liga ou clica? Saiba qual o canal do SNS 24 mais adequado para aceder aos serviç…",
+    "url": "https://canalalentejo.sapo.pt/liga-ou-clica-saiba-qual-o-canal-do-sns-24-mais-adequado-para-aceder-aos-servic-3/",
+    "published": "2026-11-26T10:00Z",
     "source": "Canal Alentejo",
     "source_site": "https://canalalentejo.sapo.pt/",
     "feed": "https://canalalentejo.sapo.pt/feed/",
-    "read_at": "2026-11-26T02:32:13Z",
+    "read_at": "2026-11-26T11:15:23Z",
     "mentions_place": false,
-    "date": "2026-11-25"
+    "date": "2026-11-26"
+   },
+   {
+    "title": "TRÊS CIDADES. DOIS PAÍSES. UM CAMPEONATO QUE OUVE OS SEUS ATLETAS.\n\nO EUROBEC R…",
+    "url": "https://canalalentejo.sapo.pt/tres-cidades-dois-paises-um-campeonato-que-ouve-os-seus-atletas-o-eurobec-r/",
+    "published": "2026-11-26T09:54Z",
+    "source": "Canal Alentejo",
+    "source_site": "https://canalalentejo.sapo.pt/",
+    "feed": "https://canalalentejo.sapo.pt/feed/",
+    "read_at": "2026-11-26T11:15:23Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "EXPOSIÇÃO | UMA VELA, MIL LUZES \n\nNeste Natal, cada vela conta uma história e c…",
+    "url": "https://canalalentejo.sapo.pt/exposicao-uma-vela-mil-luzes-neste-natal-cada-vela-conta-uma-historia-e-c/",
+    "published": "2026-11-26T09:49Z",
+    "source": "Canal Alentejo",
+    "source_site": "https://canalalentejo.sapo.pt/",
+    "feed": "https://canalalentejo.sapo.pt/feed/",
+    "read_at": "2026-11-26T11:15:23Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Ambiente e Educação | Ação de limpeza e sensibilização ambiental no Circuito de …",
+    "url": "https://canalalentejo.sapo.pt/ambiente-e-educacao-acao-de-limpeza-e-sensibilizacao-ambiental-no-circuito-de/",
+    "published": "2026-11-26T09:37Z",
+    "source": "Canal Alentejo",
+    "source_site": "https://canalalentejo.sapo.pt/",
+    "feed": "https://canalalentejo.sapo.pt/feed/",
+    "read_at": "2026-11-26T11:15:23Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Faculdade de Desporto da U.Porto assinala 51 anos de história",
+    "url": "https://canalalentejo.sapo.pt/faculdade-de-desporto-da-u-porto-assinala-51-anos-de-historia-2/",
+    "published": "2026-11-26T09:37Z",
+    "source": "Canal Alentejo",
+    "source_site": "https://canalalentejo.sapo.pt/",
+    "feed": "https://canalalentejo.sapo.pt/feed/",
+    "read_at": "2026-11-26T11:15:23Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
    },
    {
     "title": "PS e PSD disputam autoria dos investimentos previstos para o distrito de Portalegre",
@@ -628,7 +672,7 @@
     "source": "Rádio Portalegre",
     "source_site": "https://radioportalegre.pt/",
     "feed": "https://radioportalegre.pt/feed/",
-    "read_at": "2026-11-26T02:32:21Z",
+    "read_at": "2026-11-26T11:15:32Z",
     "mentions_place": true,
     "date": "2026-11-25"
    },
@@ -639,51 +683,7 @@
     "source": "Rádio Portalegre",
     "source_site": "https://radioportalegre.pt/",
     "feed": "https://radioportalegre.pt/feed/",
-    "read_at": "2026-11-26T02:32:21Z",
-    "mentions_place": true,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Portalegre: ampliação da residência dos Assentos acrescenta 80 camas e reforça capacidade de alojamento estudantil (c/fotos)",
-    "url": "https://radioportalegre.pt/portalegre-ampliacao-da-residencia-dos-assentos-acrescenta-80-camas-e-reforca-capacidade-de-alojamento-estudantil/",
-    "published": "2026-11-25T16:21Z",
-    "source": "Rádio Portalegre",
-    "source_site": "https://radioportalegre.pt/",
-    "feed": "https://radioportalegre.pt/feed/",
-    "read_at": "2026-11-26T02:32:21Z",
-    "mentions_place": true,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Portalegre: FOOTPARK das Lysias já está ao serviço da comunidade (c/fotos)",
-    "url": "https://radioportalegre.pt/portalegre-footpark-das-lysias-ja-esta-ao-servico-da-comunidade-c-fotos/",
-    "published": "2026-11-25T15:57Z",
-    "source": "Rádio Portalegre",
-    "source_site": "https://radioportalegre.pt/",
-    "feed": "https://radioportalegre.pt/feed/",
-    "read_at": "2026-11-26T02:32:21Z",
-    "mentions_place": true,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "José Barros agradece homenagem do Estrela após conquista do campeonato brasileiro pelo Flamengo",
-    "url": "https://radioportalegre.pt/jose-barros-agradece-homenagem-do-estrela-apos-conquista-do-campeonato-brasileiro-pelo-flamengo/",
-    "published": "2026-11-25T11:06Z",
-    "source": "Rádio Portalegre",
-    "source_site": "https://radioportalegre.pt/",
-    "feed": "https://radioportalegre.pt/feed/",
-    "read_at": "2026-11-26T02:32:21Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "FOOTPARK de Portalegre inaugurado esta quarta-feira após adiamento devido ao mau tempo",
-    "url": "https://radioportalegre.pt/footpark-de-portalegre-inaugurado-esta-quarta-feira-apos-adiamento-devido-ao-mau-tempo/",
-    "published": "2026-11-25T10:54Z",
-    "source": "Rádio Portalegre",
-    "source_site": "https://radioportalegre.pt/",
-    "feed": "https://radioportalegre.pt/feed/",
-    "read_at": "2026-11-26T02:32:21Z",
+    "read_at": "2026-11-26T11:15:32Z",
     "mentions_place": true,
     "date": "2026-11-25"
    },
@@ -694,7 +694,7 @@
     "source": "Jornal de Portalegre",
     "source_site": "https://jornaldeportalegre.sapo.pt/",
     "feed": "https://jornaldeportalegre.sapo.pt/feed/",
-    "read_at": "2026-11-26T02:32:19Z",
+    "read_at": "2026-11-26T11:15:30Z",
     "mentions_place": true,
     "date": null
    },
@@ -705,7 +705,7 @@
     "source": "Jornal de Portalegre",
     "source_site": "https://jornaldeportalegre.sapo.pt/",
     "feed": "https://jornaldeportalegre.sapo.pt/feed/",
-    "read_at": "2026-11-26T02:32:19Z",
+    "read_at": "2026-11-26T11:15:30Z",
     "mentions_place": false,
     "date": null
    },
@@ -716,7 +716,7 @@
     "source": "Jornal de Portalegre",
     "source_site": "https://jornaldeportalegre.sapo.pt/",
     "feed": "https://jornaldeportalegre.sapo.pt/feed/",
-    "read_at": "2026-11-26T02:32:19Z",
+    "read_at": "2026-11-26T11:15:30Z",
     "mentions_place": false,
     "date": null
    },
@@ -727,7 +727,7 @@
     "source": "Jornal de Portalegre",
     "source_site": "https://jornaldeportalegre.sapo.pt/",
     "feed": "https://jornaldeportalegre.sapo.pt/feed/",
-    "read_at": "2026-11-26T02:32:19Z",
+    "read_at": "2026-11-26T11:15:30Z",
     "mentions_place": false,
     "date": null
    },
@@ -738,7 +738,7 @@
     "source": "Jornal de Portalegre",
     "source_site": "https://jornaldeportalegre.sapo.pt/",
     "feed": "https://jornaldeportalegre.sapo.pt/feed/",
-    "read_at": "2026-11-26T02:32:19Z",
+    "read_at": "2026-11-26T11:15:30Z",
     "mentions_place": false,
     "date": null
    },
@@ -749,7 +749,7 @@
     "source": "Jornal de Portalegre",
     "source_site": "https://jornaldeportalegre.sapo.pt/",
     "feed": "https://jornaldeportalegre.sapo.pt/feed/",
-    "read_at": "2026-11-26T02:32:19Z",
+    "read_at": "2026-11-26T11:15:30Z",
     "mentions_place": true,
     "date": null
    }
