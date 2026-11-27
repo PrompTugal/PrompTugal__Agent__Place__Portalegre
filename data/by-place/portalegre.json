@@ -5,7 +5,7 @@
  "kind": "city",
  "parent": "portugal",
  "status": "live",
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "by": "place.portalegre@PrompTugal.dinis",
  "mandate": "PrompTugal.news Portalegre: AI and technology in Portalegre, the Alto Alentejo capital whose centre of gravity is its polytechnic university and the IoT, agriculture and defence-tech ambitions around it, and what reaches Portalegre from the Alentejo, Portugal and the world. Independent; every fact sourced.",
  "gravity": {
@@ -543,7 +543,7 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-26T18:38Z",
+  "read_at": "2026-11-27T07:38Z",
   "by": "place.portalegre@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
@@ -551,51 +551,73 @@
    "url": "https://radioportalegre.pt/psp-e-asae-encerram-dois-estabelecimentos-comerciais-em-portalegre/",
    "source": "Rádio Portalegre",
    "date": "2026-11-26",
-   "read_at": "2026-11-26T18:30:55Z",
+   "read_at": "2026-11-27T07:29:23Z",
    "names_place": true
   },
   "items": [
    {
-    "title": "O Município de Odemira foi distinguido com o Prémio de Melhor Conjunto de Boas P…",
-    "url": "https://canalalentejo.sapo.pt/o-municipio-de-odemira-foi-distinguido-com-o-premio-de-melhor-conjunto-de-boas-p/",
-    "published": "2026-11-26T17:59Z",
+    "title": "VOZ AMIGA no palco da Cozinha dos Ganhões.\nJunte-se a nós!\n\n#VIVEstremoz #Estrem…",
+    "url": "https://canalalentejo.sapo.pt/voz-amiga-no-palco-da-cozinha-dos-ganhoes-junte-se-a-nosvivestremoz-estrem/",
+    "published": "2026-11-26T21:49Z",
     "source": "Canal Alentejo",
     "source_site": "https://canalalentejo.sapo.pt/",
     "feed": "https://canalalentejo.sapo.pt/feed/",
-    "read_at": "2026-11-26T18:30:47Z",
+    "read_at": "2026-11-27T07:29:15Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
    {
-    "title": "Iniciativa “Conhecer para Decidir” reforça conhecimento técnico sobre água, inovação e investimento no regadio « Comissão de Coordenação e Desenvolvimento Regional do Alentejo, I.P.",
-    "url": "https://canalalentejo.sapo.pt/iniciativa-conhecer-para-decidir-reforca-conhecimento-tecnico-sobre-agua-inovacao-e-investimento-no-regadio-comissao-de-coordenacao-e-desenvolvimento-regional-do-alentejo-i/",
-    "published": "2026-11-26T17:20Z",
+    "title": "Assista em Direto às declarações do Primeiro-Ministro após o Conselho Europeu:",
+    "url": "https://canalalentejo.sapo.pt/assista-em-direto-as-declaracoes-do-primeiro-ministro-apos-o-conselho-europeu/",
+    "published": "2026-11-26T21:48Z",
     "source": "Canal Alentejo",
     "source_site": "https://canalalentejo.sapo.pt/",
     "feed": "https://canalalentejo.sapo.pt/feed/",
-    "read_at": "2026-11-26T18:30:47Z",
+    "read_at": "2026-11-27T07:29:15Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
    {
-    "title": "Lamego promove Semana do Voluntariado",
-    "url": "https://canalalentejo.sapo.pt/lamego-promove-semana-do-voluntariado/",
-    "published": "2026-11-26T17:18Z",
+    "title": "MERCADINHO DE NATAL 2026 | WORKSHOP FUNNY COOK \nEste Natal, os mais pequenos ta…",
+    "url": "https://canalalentejo.sapo.pt/mercadinho-de-natal-2026-workshop-funny-cook-este-natal-os-mais-pequenos-ta/",
+    "published": "2026-11-26T20:30Z",
     "source": "Canal Alentejo",
     "source_site": "https://canalalentejo.sapo.pt/",
     "feed": "https://canalalentejo.sapo.pt/feed/",
-    "read_at": "2026-11-26T18:30:47Z",
+    "read_at": "2026-11-27T07:29:15Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
    {
-    "title": "AREANATejo assinala 25 anos de compromisso com a sustentabilidade e a eficiência…",
-    "url": "https://canalalentejo.sapo.pt/areanatejo-assinala-25-anos-de-compromisso-com-a-sustentabilidade-e-a-eficiencia/",
-    "published": "2026-11-26T16:57Z",
+    "title": "A decorrer a inauguração da 32º Cozinha dos Ganhões e + naturEST – Feira de Caça…",
+    "url": "https://canalalentejo.sapo.pt/a-decorrer-a-inauguracao-da-32o-cozinha-dos-ganhoes-e-naturest-feira-de-caca/",
+    "published": "2026-11-26T20:23Z",
     "source": "Canal Alentejo",
     "source_site": "https://canalalentejo.sapo.pt/",
     "feed": "https://canalalentejo.sapo.pt/feed/",
-    "read_at": "2026-11-26T18:30:47Z",
+    "read_at": "2026-11-27T07:29:15Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Peça de Teatro “Separados… Mas Pouco”\nCentro Cultural de Campo Maior\n28 de nov…",
+    "url": "https://canalalentejo.sapo.pt/peca-de-teatro-separados-mas-poucocentro-cultural-de-campo-maior28-de-nov-2/",
+    "published": "2026-11-26T20:00Z",
+    "source": "Canal Alentejo",
+    "source_site": "https://canalalentejo.sapo.pt/",
+    "feed": "https://canalalentejo.sapo.pt/feed/",
+    "read_at": "2026-11-27T07:29:15Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "XXV Mostra de Doçaria de Alcáçovas  \n\n 5 de dezembro \n\ncom Tiago Taborda Live Sa…",
+    "url": "https://canalalentejo.sapo.pt/xxv-mostra-de-docaria-de-alcacovas-5-de-dezembro-com-tiago-taborda-live-sa/",
+    "published": "2026-11-26T19:30Z",
+    "source": "Canal Alentejo",
+    "source_site": "https://canalalentejo.sapo.pt/",
+    "feed": "https://canalalentejo.sapo.pt/feed/",
+    "read_at": "2026-11-27T07:29:15Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -606,19 +628,8 @@
     "source": "Rádio Portalegre",
     "source_site": "https://radioportalegre.pt/",
     "feed": "https://radioportalegre.pt/feed/",
-    "read_at": "2026-11-26T18:30:55Z",
+    "read_at": "2026-11-27T07:29:23Z",
     "mentions_place": true,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "CINEMA | VERITY\n\nNa noite do próximo sábado, dia 28 de novembro, pelas  21H00, …",
-    "url": "https://canalalentejo.sapo.pt/cinema-verityna-noite-do-proximo-sabado-dia-28-de-novembro-pelas-21h00/",
-    "published": "2026-11-26T16:56Z",
-    "source": "Canal Alentejo",
-    "source_site": "https://canalalentejo.sapo.pt/",
-    "feed": "https://canalalentejo.sapo.pt/feed/",
-    "read_at": "2026-11-26T18:30:47Z",
-    "mentions_place": false,
     "date": "2026-11-26"
    },
    {
@@ -628,18 +639,7 @@
     "source": "Rádio Portalegre",
     "source_site": "https://radioportalegre.pt/",
     "feed": "https://radioportalegre.pt/feed/",
-    "read_at": "2026-11-26T18:30:55Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "O Município de Reguengos de Monsaraz vai inaugurar amanhã, dia 27 de novembro, p…",
-    "url": "https://canalalentejo.sapo.pt/o-municipio-de-reguengos-de-monsaraz-vai-inaugurar-amanha-dia-27-de-novembro-p/",
-    "published": "2026-11-26T16:43Z",
-    "source": "Canal Alentejo",
-    "source_site": "https://canalalentejo.sapo.pt/",
-    "feed": "https://canalalentejo.sapo.pt/feed/",
-    "read_at": "2026-11-26T18:30:47Z",
+    "read_at": "2026-11-27T07:29:23Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -650,7 +650,7 @@
     "source": "Rádio Portalegre",
     "source_site": "https://radioportalegre.pt/",
     "feed": "https://radioportalegre.pt/feed/",
-    "read_at": "2026-11-26T18:30:55Z",
+    "read_at": "2026-11-27T07:29:23Z",
     "mentions_place": true,
     "date": "2026-11-26"
    },
@@ -661,7 +661,7 @@
     "source": "Rádio Portalegre",
     "source_site": "https://radioportalegre.pt/",
     "feed": "https://radioportalegre.pt/feed/",
-    "read_at": "2026-11-26T18:30:55Z",
+    "read_at": "2026-11-27T07:29:23Z",
     "mentions_place": true,
     "date": "2026-11-26"
    },
@@ -672,7 +672,7 @@
     "source": "Rádio Portalegre",
     "source_site": "https://radioportalegre.pt/",
     "feed": "https://radioportalegre.pt/feed/",
-    "read_at": "2026-11-26T18:30:55Z",
+    "read_at": "2026-11-27T07:29:23Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -683,7 +683,7 @@
     "source": "Rádio Portalegre",
     "source_site": "https://radioportalegre.pt/",
     "feed": "https://radioportalegre.pt/feed/",
-    "read_at": "2026-11-26T18:30:55Z",
+    "read_at": "2026-11-27T07:29:23Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -694,7 +694,7 @@
     "source": "Jornal de Portalegre",
     "source_site": "https://jornaldeportalegre.sapo.pt/",
     "feed": "https://jornaldeportalegre.sapo.pt/feed/",
-    "read_at": "2026-11-26T18:30:53Z",
+    "read_at": "2026-11-27T07:29:21Z",
     "mentions_place": true,
     "date": null
    },
@@ -705,7 +705,7 @@
     "source": "Jornal de Portalegre",
     "source_site": "https://jornaldeportalegre.sapo.pt/",
     "feed": "https://jornaldeportalegre.sapo.pt/feed/",
-    "read_at": "2026-11-26T18:30:53Z",
+    "read_at": "2026-11-27T07:29:21Z",
     "mentions_place": true,
     "date": null
    },
@@ -716,7 +716,7 @@
     "source": "Jornal de Portalegre",
     "source_site": "https://jornaldeportalegre.sapo.pt/",
     "feed": "https://jornaldeportalegre.sapo.pt/feed/",
-    "read_at": "2026-11-26T18:30:53Z",
+    "read_at": "2026-11-27T07:29:21Z",
     "mentions_place": true,
     "date": null
    },
@@ -727,7 +727,7 @@
     "source": "Jornal de Portalegre",
     "source_site": "https://jornaldeportalegre.sapo.pt/",
     "feed": "https://jornaldeportalegre.sapo.pt/feed/",
-    "read_at": "2026-11-26T18:30:53Z",
+    "read_at": "2026-11-27T07:29:21Z",
     "mentions_place": false,
     "date": null
    },
@@ -738,7 +738,7 @@
     "source": "Jornal de Portalegre",
     "source_site": "https://jornaldeportalegre.sapo.pt/",
     "feed": "https://jornaldeportalegre.sapo.pt/feed/",
-    "read_at": "2026-11-26T18:30:53Z",
+    "read_at": "2026-11-27T07:29:21Z",
     "mentions_place": false,
     "date": null
    },
@@ -749,7 +749,7 @@
     "source": "Jornal de Portalegre",
     "source_site": "https://jornaldeportalegre.sapo.pt/",
     "feed": "https://jornaldeportalegre.sapo.pt/feed/",
-    "read_at": "2026-11-26T18:30:53Z",
+    "read_at": "2026-11-27T07:29:21Z",
     "mentions_place": false,
     "date": null
    }
