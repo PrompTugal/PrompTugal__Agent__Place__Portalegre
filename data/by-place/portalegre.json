@@ -543,149 +543,105 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-27T07:38Z",
+  "read_at": "2026-11-27T18:38Z",
   "by": "place.portalegre@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
-   "title": "PSP e ASAE encerram dois estabelecimentos comerciais em Portalegre",
-   "url": "https://radioportalegre.pt/psp-e-asae-encerram-dois-estabelecimentos-comerciais-em-portalegre/",
-   "source": "Rádio Portalegre",
-   "date": "2026-11-26",
-   "read_at": "2026-11-27T07:29:23Z",
-   "names_place": true
+   "title": "A quinta edição da Rota D’Natal realiza-se no sábado, 19 de dezembro, às 17h30, …",
+   "url": "https://canalalentejo.sapo.pt/a-quinta-edicao-da-rota-dnatal-realiza-se-no-sabado-19-de-dezembro-as-17h30/",
+   "source": "Canal Alentejo",
+   "date": "2026-11-27",
+   "read_at": "2026-11-27T18:29:35Z",
+   "names_place": false
   },
   "items": [
    {
-    "title": "VOZ AMIGA no palco da Cozinha dos Ganhões.\nJunte-se a nós!\n\n#VIVEstremoz #Estrem…",
-    "url": "https://canalalentejo.sapo.pt/voz-amiga-no-palco-da-cozinha-dos-ganhoes-junte-se-a-nosvivestremoz-estrem/",
-    "published": "2026-11-26T21:49Z",
+    "title": "A quinta edição da Rota D’Natal realiza-se no sábado, 19 de dezembro, às 17h30, …",
+    "url": "https://canalalentejo.sapo.pt/a-quinta-edicao-da-rota-dnatal-realiza-se-no-sabado-19-de-dezembro-as-17h30/",
+    "published": "2026-11-27T18:00Z",
     "source": "Canal Alentejo",
     "source_site": "https://canalalentejo.sapo.pt/",
     "feed": "https://canalalentejo.sapo.pt/feed/",
-    "read_at": "2026-11-27T07:29:15Z",
+    "read_at": "2026-11-27T18:29:35Z",
     "mentions_place": false,
-    "date": "2026-11-26"
+    "date": "2026-11-27"
    },
    {
-    "title": "Assista em Direto às declarações do Primeiro-Ministro após o Conselho Europeu:",
-    "url": "https://canalalentejo.sapo.pt/assista-em-direto-as-declaracoes-do-primeiro-ministro-apos-o-conselho-europeu/",
-    "published": "2026-11-26T21:48Z",
+    "title": "MUNICÍPIO DE VILA VIÇOSA ENTREGA APOIO NO ÂMBITO DO “PROGRAMA DE APOIO À NATALID…",
+    "url": "https://canalalentejo.sapo.pt/municipio-de-vila-vicosa-entrega-apoio-no-ambito-do-programa-de-apoio-a-natalid-5/",
+    "published": "2026-11-27T18:00Z",
     "source": "Canal Alentejo",
     "source_site": "https://canalalentejo.sapo.pt/",
     "feed": "https://canalalentejo.sapo.pt/feed/",
-    "read_at": "2026-11-27T07:29:15Z",
+    "read_at": "2026-11-27T18:29:35Z",
     "mentions_place": false,
-    "date": "2026-11-26"
+    "date": "2026-11-27"
    },
    {
-    "title": "MERCADINHO DE NATAL 2026 | WORKSHOP FUNNY COOK \nEste Natal, os mais pequenos ta…",
-    "url": "https://canalalentejo.sapo.pt/mercadinho-de-natal-2026-workshop-funny-cook-este-natal-os-mais-pequenos-ta/",
-    "published": "2026-11-26T20:30Z",
+    "title": "VAMOS FALAR DE TURISMO… SEM FRONTEIRAS | VÍDEO INTEGRAL\n\nComo pode a cooperação …",
+    "url": "https://canalalentejo.sapo.pt/vamos-falar-de-turismo-sem-fronteiras-video-integralcomo-pode-a-cooperacao/",
+    "published": "2026-11-27T17:52Z",
     "source": "Canal Alentejo",
     "source_site": "https://canalalentejo.sapo.pt/",
     "feed": "https://canalalentejo.sapo.pt/feed/",
-    "read_at": "2026-11-27T07:29:15Z",
+    "read_at": "2026-11-27T18:29:35Z",
     "mentions_place": false,
-    "date": "2026-11-26"
+    "date": "2026-11-27"
    },
    {
-    "title": "A decorrer a inauguração da 32º Cozinha dos Ganhões e + naturEST – Feira de Caça…",
-    "url": "https://canalalentejo.sapo.pt/a-decorrer-a-inauguracao-da-32o-cozinha-dos-ganhoes-e-naturest-feira-de-caca/",
-    "published": "2026-11-26T20:23Z",
+    "title": "Seis projetos a votação no Orçamento Participativo da Nazaré 2026",
+    "url": "https://canalalentejo.sapo.pt/seis-projetos-a-votacao-no-orcamento-participativo-da-nazare-2026/",
+    "published": "2026-11-27T17:52Z",
     "source": "Canal Alentejo",
     "source_site": "https://canalalentejo.sapo.pt/",
     "feed": "https://canalalentejo.sapo.pt/feed/",
-    "read_at": "2026-11-27T07:29:15Z",
+    "read_at": "2026-11-27T18:29:35Z",
     "mentions_place": false,
-    "date": "2026-11-26"
+    "date": "2026-11-27"
    },
    {
-    "title": "Peça de Teatro “Separados… Mas Pouco”\nCentro Cultural de Campo Maior\n28 de nov…",
-    "url": "https://canalalentejo.sapo.pt/peca-de-teatro-separados-mas-poucocentro-cultural-de-campo-maior28-de-nov-2/",
-    "published": "2026-11-26T20:00Z",
+    "title": "AgoraEU 2028-2034: press conference with joint rapporteurs Rafowicz and Kuhnke | News",
+    "url": "https://canalalentejo.sapo.pt/agoraeu-2028-2034-press-conference-with-joint-rapporteurs-rafowicz-and-kuhnke-news/",
+    "published": "2026-11-27T17:48Z",
     "source": "Canal Alentejo",
     "source_site": "https://canalalentejo.sapo.pt/",
     "feed": "https://canalalentejo.sapo.pt/feed/",
-    "read_at": "2026-11-27T07:29:15Z",
+    "read_at": "2026-11-27T18:29:35Z",
     "mentions_place": false,
-    "date": "2026-11-26"
+    "date": "2026-11-27"
    },
    {
-    "title": "XXV Mostra de Doçaria de Alcáçovas  \n\n 5 de dezembro \n\ncom Tiago Taborda Live Sa…",
-    "url": "https://canalalentejo.sapo.pt/xxv-mostra-de-docaria-de-alcacovas-5-de-dezembro-com-tiago-taborda-live-sa/",
-    "published": "2026-11-26T19:30Z",
+    "title": "Agreement reached on the first EU-wide criminal law rules against corruption | News",
+    "url": "https://canalalentejo.sapo.pt/agreement-reached-on-the-first-eu-wide-criminal-law-rules-against-corruption-news/",
+    "published": "2026-11-27T17:47Z",
     "source": "Canal Alentejo",
     "source_site": "https://canalalentejo.sapo.pt/",
     "feed": "https://canalalentejo.sapo.pt/feed/",
-    "read_at": "2026-11-27T07:29:15Z",
+    "read_at": "2026-11-27T18:29:35Z",
     "mentions_place": false,
-    "date": "2026-11-26"
+    "date": "2026-11-27"
    },
    {
-    "title": "PSP e ASAE encerram dois estabelecimentos comerciais em Portalegre",
-    "url": "https://radioportalegre.pt/psp-e-asae-encerram-dois-estabelecimentos-comerciais-em-portalegre/",
-    "published": "2026-11-26T16:57Z",
-    "source": "Rádio Portalegre",
-    "source_site": "https://radioportalegre.pt/",
-    "feed": "https://radioportalegre.pt/feed/",
-    "read_at": "2026-11-27T07:29:23Z",
+    "title": "GNR e Pingo Doce realizam almoço solidário de Natal para 100 idosos",
+    "url": "https://jornaldeportalegre.sapo.pt/noticias/gnr-e-pingo-doce-realizam-almoco-solidario-de-natal-para-100-idosos",
+    "published": null,
+    "source": "Jornal de Portalegre",
+    "source_site": "https://jornaldeportalegre.sapo.pt/",
+    "feed": "https://jornaldeportalegre.sapo.pt/feed/",
+    "read_at": "2026-11-27T18:29:42Z",
+    "mentions_place": false,
+    "date": null
+   },
+   {
+    "title": "Atividades nos Equipamentos Desportivos Municipais de Portalegre",
+    "url": "https://jornaldeportalegre.sapo.pt/noticias/atividades-nos-equipamentos-desportivos-municipais-de-portalegre",
+    "published": null,
+    "source": "Jornal de Portalegre",
+    "source_site": "https://jornaldeportalegre.sapo.pt/",
+    "feed": "https://jornaldeportalegre.sapo.pt/feed/",
+    "read_at": "2026-11-27T18:29:42Z",
     "mentions_place": true,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Elvas: habitação concentra maior fatia do orçamento camarário para 2027",
-    "url": "https://radioportalegre.pt/elvas-habitacao-concentra-maior-fatia-do-orcamento-camarario-para-2027/",
-    "published": "2026-11-26T16:55Z",
-    "source": "Rádio Portalegre",
-    "source_site": "https://radioportalegre.pt/",
-    "feed": "https://radioportalegre.pt/feed/",
-    "read_at": "2026-11-27T07:29:23Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Vinhos de Altitude regressam a Portalegre com mais gastronomia e aposta na internacionalização",
-    "url": "https://radioportalegre.pt/vinhos-de-altitude-regressam-a-portalegre-com-mais-gastronomia-e-aposta-na-internacionalizacao/",
-    "published": "2026-11-26T15:56Z",
-    "source": "Rádio Portalegre",
-    "source_site": "https://radioportalegre.pt/",
-    "feed": "https://radioportalegre.pt/feed/",
-    "read_at": "2026-11-27T07:29:23Z",
-    "mentions_place": true,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Piloto de Portalegre Nuno Matos aponta ao vice-campeonato T3 e ao top 5 absoluto na Baja de Lagos",
-    "url": "https://radioportalegre.pt/piloto-de-portalegre-nuno-matos-aponta-ao-vice-campeonato-t3-e-ao-top-5-absoluto-na-baja-de-lagos/",
-    "published": "2026-11-26T15:33Z",
-    "source": "Rádio Portalegre",
-    "source_site": "https://radioportalegre.pt/",
-    "feed": "https://radioportalegre.pt/feed/",
-    "read_at": "2026-11-27T07:29:23Z",
-    "mentions_place": true,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Arronches: Campanha de Natal volta a incentivar compras no comércio tradicional",
-    "url": "https://radioportalegre.pt/arronches-campanha-de-natal-volta-a-incentivar-compras-no-comercio-tradicional/",
-    "published": "2026-11-26T15:28Z",
-    "source": "Rádio Portalegre",
-    "source_site": "https://radioportalegre.pt/",
-    "feed": "https://radioportalegre.pt/feed/",
-    "read_at": "2026-11-27T07:29:23Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Avis volta a receber Galardão ECOXXI pela aposta na sustentabilidade",
-    "url": "https://radioportalegre.pt/avis-volta-a-receber-galardao-ecoxxi-pela-aposta-na-sustentabilidade/",
-    "published": "2026-11-26T14:53Z",
-    "source": "Rádio Portalegre",
-    "source_site": "https://radioportalegre.pt/",
-    "feed": "https://radioportalegre.pt/feed/",
-    "read_at": "2026-11-27T07:29:23Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
+    "date": null
    },
    {
     "title": "Empresários do Distrito de Portalegre reúnem com Turismo do Alentejo e Ribatejo",
@@ -694,7 +650,7 @@
     "source": "Jornal de Portalegre",
     "source_site": "https://jornaldeportalegre.sapo.pt/",
     "feed": "https://jornaldeportalegre.sapo.pt/feed/",
-    "read_at": "2026-11-27T07:29:21Z",
+    "read_at": "2026-11-27T18:29:42Z",
     "mentions_place": true,
     "date": null
    },
@@ -705,7 +661,7 @@
     "source": "Jornal de Portalegre",
     "source_site": "https://jornaldeportalegre.sapo.pt/",
     "feed": "https://jornaldeportalegre.sapo.pt/feed/",
-    "read_at": "2026-11-27T07:29:21Z",
+    "read_at": "2026-11-27T18:29:42Z",
     "mentions_place": true,
     "date": null
    },
@@ -716,7 +672,7 @@
     "source": "Jornal de Portalegre",
     "source_site": "https://jornaldeportalegre.sapo.pt/",
     "feed": "https://jornaldeportalegre.sapo.pt/feed/",
-    "read_at": "2026-11-27T07:29:21Z",
+    "read_at": "2026-11-27T18:29:42Z",
     "mentions_place": true,
     "date": null
    },
@@ -727,29 +683,7 @@
     "source": "Jornal de Portalegre",
     "source_site": "https://jornaldeportalegre.sapo.pt/",
     "feed": "https://jornaldeportalegre.sapo.pt/feed/",
-    "read_at": "2026-11-27T07:29:21Z",
-    "mentions_place": false,
-    "date": null
-   },
-   {
-    "title": "“Diálogos Tipografia Tapeçaria” patente até 24 de janeiro de 2027",
-    "url": "https://jornaldeportalegre.sapo.pt/noticias/dialogos-tipografia-tapecaria-patente-ate-24-de-janeiro-de-2027",
-    "published": null,
-    "source": "Jornal de Portalegre",
-    "source_site": "https://jornaldeportalegre.sapo.pt/",
-    "feed": "https://jornaldeportalegre.sapo.pt/feed/",
-    "read_at": "2026-11-27T07:29:21Z",
-    "mentions_place": false,
-    "date": null
-   },
-   {
-    "title": "CAEP recebe um fascinante retrato de Camilo Castelo Branco",
-    "url": "https://jornaldeportalegre.sapo.pt/noticias/caep-recebe-um-fascinante-retrato-de-camilo-castelo-branco",
-    "published": null,
-    "source": "Jornal de Portalegre",
-    "source_site": "https://jornaldeportalegre.sapo.pt/",
-    "feed": "https://jornaldeportalegre.sapo.pt/feed/",
-    "read_at": "2026-11-27T07:29:21Z",
+    "read_at": "2026-11-27T18:29:42Z",
     "mentions_place": false,
     "date": null
    }
