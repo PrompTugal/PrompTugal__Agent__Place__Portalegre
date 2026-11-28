@@ -5,7 +5,7 @@
  "kind": "city",
  "parent": "portugal",
  "status": "live",
- "updated": "2026-11-27",
+ "updated": "2026-11-28",
  "by": "place.portalegre@PrompTugal.dinis",
  "mandate": "PrompTugal.news Portalegre: AI and technology in Portalegre, the Alto Alentejo capital whose centre of gravity is its polytechnic university and the IoT, agriculture and defence-tech ambitions around it, and what reaches Portalegre from the Alentejo, Portugal and the world. Independent; every fact sourced.",
  "gravity": {
@@ -543,83 +543,83 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-27T18:38Z",
+  "read_at": "2026-11-28T07:37Z",
   "by": "place.portalegre@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
-   "title": "A quinta edição da Rota D’Natal realiza-se no sábado, 19 de dezembro, às 17h30, …",
-   "url": "https://canalalentejo.sapo.pt/a-quinta-edicao-da-rota-dnatal-realiza-se-no-sabado-19-de-dezembro-as-17h30/",
+   "title": "Debate with Ukraine’s Minister of Agriculture | News",
+   "url": "https://canalalentejo.sapo.pt/debate-with-ukraines-minister-of-agriculture-news/",
    "source": "Canal Alentejo",
-   "date": "2026-11-27",
-   "read_at": "2026-11-27T18:29:35Z",
+   "date": "2026-11-28",
+   "read_at": "2026-11-28T07:29:03Z",
    "names_place": false
   },
   "items": [
    {
-    "title": "A quinta edição da Rota D’Natal realiza-se no sábado, 19 de dezembro, às 17h30, …",
-    "url": "https://canalalentejo.sapo.pt/a-quinta-edicao-da-rota-dnatal-realiza-se-no-sabado-19-de-dezembro-as-17h30/",
-    "published": "2026-11-27T18:00Z",
+    "title": "Debate with Ukraine’s Minister of Agriculture | News",
+    "url": "https://canalalentejo.sapo.pt/debate-with-ukraines-minister-of-agriculture-news/",
+    "published": "2026-11-28T07:25Z",
     "source": "Canal Alentejo",
     "source_site": "https://canalalentejo.sapo.pt/",
     "feed": "https://canalalentejo.sapo.pt/feed/",
-    "read_at": "2026-11-27T18:29:35Z",
+    "read_at": "2026-11-28T07:29:03Z",
     "mentions_place": false,
-    "date": "2026-11-27"
+    "date": "2026-11-28"
    },
    {
-    "title": "MUNICÍPIO DE VILA VIÇOSA ENTREGA APOIO NO ÂMBITO DO “PROGRAMA DE APOIO À NATALID…",
-    "url": "https://canalalentejo.sapo.pt/municipio-de-vila-vicosa-entrega-apoio-no-ambito-do-programa-de-apoio-a-natalid-5/",
-    "published": "2026-11-27T18:00Z",
+    "title": "Plataformas digitais: Eurodeputados querem melhorar as condições de trabalho | Atualidade",
+    "url": "https://canalalentejo.sapo.pt/plataformas-digitais-eurodeputados-querem-melhorar-as-condicoes-de-trabalho-atualidade/",
+    "published": "2026-11-28T07:24Z",
     "source": "Canal Alentejo",
     "source_site": "https://canalalentejo.sapo.pt/",
     "feed": "https://canalalentejo.sapo.pt/feed/",
-    "read_at": "2026-11-27T18:29:35Z",
+    "read_at": "2026-11-28T07:29:03Z",
     "mentions_place": false,
-    "date": "2026-11-27"
+    "date": "2026-11-28"
    },
    {
-    "title": "VAMOS FALAR DE TURISMO… SEM FRONTEIRAS | VÍDEO INTEGRAL\n\nComo pode a cooperação …",
-    "url": "https://canalalentejo.sapo.pt/vamos-falar-de-turismo-sem-fronteiras-video-integralcomo-pode-a-cooperacao/",
-    "published": "2026-11-27T17:52Z",
+    "title": "The Employment and Social Affairs committee adopts position on a new ESF | News",
+    "url": "https://canalalentejo.sapo.pt/the-employment-and-social-affairs-committee-adopts-position-on-a-new-esf-news/",
+    "published": "2026-11-28T07:03Z",
     "source": "Canal Alentejo",
     "source_site": "https://canalalentejo.sapo.pt/",
     "feed": "https://canalalentejo.sapo.pt/feed/",
-    "read_at": "2026-11-27T18:29:35Z",
+    "read_at": "2026-11-28T07:29:03Z",
     "mentions_place": false,
-    "date": "2026-11-27"
+    "date": "2026-11-28"
    },
    {
-    "title": "Seis projetos a votação no Orçamento Participativo da Nazaré 2026",
-    "url": "https://canalalentejo.sapo.pt/seis-projetos-a-votacao-no-orcamento-participativo-da-nazare-2026/",
-    "published": "2026-11-27T17:52Z",
+    "title": "First ever EU rules on combating violence against women: deal reached | News",
+    "url": "https://canalalentejo.sapo.pt/first-ever-eu-rules-on-combating-violence-against-women-deal-reached-news/",
+    "published": "2026-11-28T06:10Z",
     "source": "Canal Alentejo",
     "source_site": "https://canalalentejo.sapo.pt/",
     "feed": "https://canalalentejo.sapo.pt/feed/",
-    "read_at": "2026-11-27T18:29:35Z",
+    "read_at": "2026-11-28T07:29:03Z",
     "mentions_place": false,
-    "date": "2026-11-27"
+    "date": "2026-11-28"
    },
    {
-    "title": "AgoraEU 2028-2034: press conference with joint rapporteurs Rafowicz and Kuhnke | News",
-    "url": "https://canalalentejo.sapo.pt/agoraeu-2028-2034-press-conference-with-joint-rapporteurs-rafowicz-and-kuhnke-news/",
-    "published": "2026-11-27T17:48Z",
+    "title": "Segurança alimentar: Eurodeputados apelam a medidas para aumentar produção da UE | Atualidade",
+    "url": "https://canalalentejo.sapo.pt/seguranca-alimentar-eurodeputados-apelam-a-medidas-para-aumentar-producao-da-ue-atualidade/",
+    "published": "2026-11-28T06:10Z",
     "source": "Canal Alentejo",
     "source_site": "https://canalalentejo.sapo.pt/",
     "feed": "https://canalalentejo.sapo.pt/feed/",
-    "read_at": "2026-11-27T18:29:35Z",
+    "read_at": "2026-11-28T07:29:03Z",
     "mentions_place": false,
-    "date": "2026-11-27"
+    "date": "2026-11-28"
    },
    {
-    "title": "Agreement reached on the first EU-wide criminal law rules against corruption | News",
-    "url": "https://canalalentejo.sapo.pt/agreement-reached-on-the-first-eu-wide-criminal-law-rules-against-corruption-news/",
-    "published": "2026-11-27T17:47Z",
+    "title": "Rendimento mínimo: Aumentar o apoio, a acessibilidade e a inclusão | Atualidade",
+    "url": "https://canalalentejo.sapo.pt/rendimento-minimo-aumentar-o-apoio-a-acessibilidade-e-a-inclusao-atualidade/",
+    "published": "2026-11-28T06:09Z",
     "source": "Canal Alentejo",
     "source_site": "https://canalalentejo.sapo.pt/",
     "feed": "https://canalalentejo.sapo.pt/feed/",
-    "read_at": "2026-11-27T18:29:35Z",
+    "read_at": "2026-11-28T07:29:03Z",
     "mentions_place": false,
-    "date": "2026-11-27"
+    "date": "2026-11-28"
    },
    {
     "title": "GNR e Pingo Doce realizam almoço solidário de Natal para 100 idosos",
@@ -628,7 +628,7 @@
     "source": "Jornal de Portalegre",
     "source_site": "https://jornaldeportalegre.sapo.pt/",
     "feed": "https://jornaldeportalegre.sapo.pt/feed/",
-    "read_at": "2026-11-27T18:29:42Z",
+    "read_at": "2026-11-28T07:29:10Z",
     "mentions_place": false,
     "date": null
    },
@@ -639,7 +639,7 @@
     "source": "Jornal de Portalegre",
     "source_site": "https://jornaldeportalegre.sapo.pt/",
     "feed": "https://jornaldeportalegre.sapo.pt/feed/",
-    "read_at": "2026-11-27T18:29:42Z",
+    "read_at": "2026-11-28T07:29:10Z",
     "mentions_place": true,
     "date": null
    },
@@ -650,7 +650,7 @@
     "source": "Jornal de Portalegre",
     "source_site": "https://jornaldeportalegre.sapo.pt/",
     "feed": "https://jornaldeportalegre.sapo.pt/feed/",
-    "read_at": "2026-11-27T18:29:42Z",
+    "read_at": "2026-11-28T07:29:10Z",
     "mentions_place": true,
     "date": null
    },
@@ -661,7 +661,7 @@
     "source": "Jornal de Portalegre",
     "source_site": "https://jornaldeportalegre.sapo.pt/",
     "feed": "https://jornaldeportalegre.sapo.pt/feed/",
-    "read_at": "2026-11-27T18:29:42Z",
+    "read_at": "2026-11-28T07:29:10Z",
     "mentions_place": true,
     "date": null
    },
@@ -672,7 +672,7 @@
     "source": "Jornal de Portalegre",
     "source_site": "https://jornaldeportalegre.sapo.pt/",
     "feed": "https://jornaldeportalegre.sapo.pt/feed/",
-    "read_at": "2026-11-27T18:29:42Z",
+    "read_at": "2026-11-28T07:29:10Z",
     "mentions_place": true,
     "date": null
    },
@@ -683,7 +683,7 @@
     "source": "Jornal de Portalegre",
     "source_site": "https://jornaldeportalegre.sapo.pt/",
     "feed": "https://jornaldeportalegre.sapo.pt/feed/",
-    "read_at": "2026-11-27T18:29:42Z",
+    "read_at": "2026-11-28T07:29:10Z",
     "mentions_place": false,
     "date": null
    }
